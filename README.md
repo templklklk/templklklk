@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### Github Stats
+
+| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xchnotxzh&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) | ![github Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xchnotxzh&theme=dracula) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
+![github Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xchnotxzh&theme=dracula)
+
 <!--
 **xchnotxzh/xchnotxzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
