@@ -8,7 +8,10 @@ I'm xchnotxzh.
 
 ### 📜 Recent posts
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Rustlings 题解](https://xchnotxzh.github.io/posts/rustlings/)
+- [Hello World](https://xchnotxzh.github.io/posts/hello-world/)
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **xchnotxzh/xchnotxzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
